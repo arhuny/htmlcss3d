@@ -1,0 +1,67 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: beige;
+}
+
+.a {
+    margin: auto;
+    padding: auto;
+}
+
+.b {
+    width: 1200px;
+    margin-right: 3%;
+    margin-left: 3%;
+    padding: auto;
+}
+
+.c {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.a1 {
+    width: 25%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h3 {
+    text-align: center;
+}
+
+.b1 {
+    text-align: left;
+}
+
+p {
+    text-align: center;
+}
+.d {
+    width: 18%;
+    display: flexbox;
+    flex-wrap: wrap;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: auto;
+}
+
+.d img {
+    width: 100%;
+}
+
+.e {
+    width: 18%;
+    display: flexbox;
+    flex-wrap: wrap;
+    margin-left: 40%;
+    margin-right: 5%;
+    padding: auto;
+}
+
+.e img{
+    width: 100%;
+}
